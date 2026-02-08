@@ -70,4 +70,11 @@ Filtered by – Retained Customers by Risk Type – “High Risk”
 
 <img width="1431" height="802" alt="4" src="https://github.com/user-attachments/assets/63fd7797-331c-464e-8420-9adf3930d5bd" />
 Filtered by – Customer Retention – “Churn = No” and Churn Customers by Contract – “Month-To-Month”
+<br>
+<br>
+<br>
 
+
+
+For this project I used synthetic data rather than a directly downloaded public dataset.
+I used Perplexity with a clear prompt to generate a telco‑style churn dataset similar to the classic Telco Customer Churn data (contracts, tenure, charges, services, churn flag). I then treated it as raw operational data and did all the cleaning, modelling and dashboarding myself in Power BI including handling duplicates, inconsistent labels and a few intentional logical errors to mirror real‑world data issues.
